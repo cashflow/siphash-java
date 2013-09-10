@@ -11,6 +11,7 @@
     <packaging>jar</packaging>
 
     <name>siphash-java</name>
+    <description>A Java implementation of SipHash. Contains an implementation of SipHash-2-4.</description>
     <url>https://github.com/emboss/siphash-java</url>
 
     <licenses>
